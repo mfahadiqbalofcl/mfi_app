@@ -1,4 +1,4 @@
-# flangapp_app
+# mfi_app
 
 A new Flutter project.
 
